@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">CourseApp</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="on_off_internet">Вкл./выкл. интернет</string>
+    <string name="general_info">Ул. Братьев Кашириных \nд. № \nкв. № \nИнтернет</string>
+    <string name="deactivate">Функция деактивирована</string>
+    <string name="guarantee">Отключайте домашний Интернет в один клик их любой точки планеты и контролируйте доступ устройств сети</string>
+    <string name="investor">Владелец договора может выдать другим людям доступ на управление интернетом</string>
 </resources>

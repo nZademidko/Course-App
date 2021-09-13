@@ -14,11 +14,6 @@ class FirstFragment : Fragment(R.layout.fragment_first) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        with(view) {
-            val btnNext = findViewById<Button>(R.id.btnNext)
-            val etText = findViewById<EditText>(R.id.etText)
-            btnNext.setOnClickListener { toSecondFragment(etText.text.toString()) }
-        }
 
     }
 
